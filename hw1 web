@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>homework_1</title>
+</head>
+<body>
+<img src="img/image 4.jpg" alt="wayup team" title="я не знаю надо было или нет, но я сделала!!">
+    <h2>Заголовок H2</h2>
+    <p>Это обычный текст, который есть абсолютно в любом <a href="https://www.google.com" target="_blank">проекте</a>.</p>
+    <ul>
+        <li>Первый пункт списочка</li>
+        <li>Второй пункт списочка</li>
+        <li>Третий пункт списочка</li>
+    </ul>
+    <form action="#">
+        <input type="text" name="name" placeholder="Имя" required>
+        <input type="email" name="name" placeholder="E-mail" required>
+        <input type="tel" name="name" placeholder="Телефон" required>
+        <button type="submit">Отправить</button>
+    </form>
+</body>
+</html>
